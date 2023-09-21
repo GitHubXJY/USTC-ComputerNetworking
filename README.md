@@ -22,7 +22,3 @@ record:
 
 - begin: 2023.9.10
 - end:
-
-book：
-
-blbl：
